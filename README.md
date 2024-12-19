@@ -1,6 +1,6 @@
-**# PRODIGY_CY_02
+**# PRODIGY_CY_02**
 
-Pixel Manipulation for Image Encryption**
+**Pixel Manipulation for Image Encryption**
 
 This Python script performs pixel manipulation for image encryption. It reads an image, modifies its pixel values using a simple encryption algorithm, and saves the encrypted image. The script also provides functionality to decrypt the image back to its original form.
 
@@ -22,6 +22,7 @@ Pillow library (PIL fork)
 bash
 
 git clone https://github.com/yourusername/your-repository-name.git
+
 cd your-repository-name
 
 **Install Dependencies:**
