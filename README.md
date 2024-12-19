@@ -1,5 +1,7 @@
 **# PRODIGY_CY_02
+
 Pixel Manipulation for Image Encryption**
+
 This Python script performs pixel manipulation for image encryption. It reads an image, modifies its pixel values using a simple encryption algorithm, and saves the encrypted image. The script also provides functionality to decrypt the image back to its original form.
 
 **Features**
